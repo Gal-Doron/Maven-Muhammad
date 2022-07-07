@@ -16,27 +16,27 @@
 	},
 	"hostRules": [
 		{
-			"matchHost": "https://wsdev.jfrog.io/artifactory/",
-			"hostType": "maven",
-			"userName": "muhammad",
-			"encrypted": {
-				"password": "wcBMA8xOaBJvzJNbAQf8CKcpGC6pzcP5hDcDfNUW2R4fPZsdP2QOVaizzl092axZ0pLhZoSJS4WJecc27zLSQnjejuEUEMyHAV03+wuU3SLh9Mne75Ap0ZkJN9UFlGqwH1znVzid/35tUtAlCjBCScjo0cL8liukMJW9kpC2JfdPkyB9hFexYd0ev1TpcDIvmre932mik5PAuGrSy2RYRu2sRl74TuNDEpimgsN8e2mWoJnqbSQQ6SHwGaWM0XYWBdCBpGSYCD7rE6ggd2x7btMSz+iEcBJDDOjvHrIwimha7kdj0QWBalZh35GPemalazNCgXrD2XszCrGX8+Fhno0Ggfb+W3T8qS42dNN7YdJfAUWC4cIWhg1uRAOJgQW55gWX0A65JzMjOd0VlyHarjB3yzosJx1UGrvOSReaplhxIr0LG2yCx30mAGYS4Cpv8ZK/gqDyDxPzuaLaCmLEjitdk+IhMtMKd6NaO66Xnow"
+		    "matchHost": "https://wsdev.jfrog.io/artifactory/",
+		    "hostType": "maven",
+		    "userName": "muhammad",
+		    "encrypted": {
+			"password": "wcBMA8xOaBJvzJNbAQf8CKcpGC6pzcP5hDcDfNUW2R4fPZsdP2QOVaizzl092axZ0pLhZoSJS4WJecc27zLSQnjejuEUEMyHAV03+wuU3SLh9Mne75Ap0ZkJN9UFlGqwH1znVzid/35tUtAlCjBCScjo0cL8liukMJW9kpC2JfdPkyB9hFexYd0ev1TpcDIvmre932mik5PAuGrSy2RYRu2sRl74TuNDEpimgsN8e2mWoJnqbSQQ6SHwGaWM0XYWBdCBpGSYCD7rE6ggd2x7btMSz+iEcBJDDOjvHrIwimha7kdj0QWBalZh35GPemalazNCgXrD2XszCrGX8+Fhno0Ggfb+W3T8qS42dNN7YdJfAUWC4cIWhg1uRAOJgQW55gWX0A65JzMjOd0VlyHarjB3yzosJx1UGrvOSReaplhxIr0LG2yCx30mAGYS4Cpv8ZK/gqDyDxPzuaLaCmLEjitdk+IhMtMKd6NaO66Xnow"
 			}
 		},
 		{
-			"matchHost": "https://wsdev.jfrog.io/artifactory/default-maven-local/",
-			"hostType": "maven",
-			"userName": "muhammad",
-			"encrypted": {
-				"password": "wcBMA8xOaBJvzJNbAQf8CKcpGC6pzcP5hDcDfNUW2R4fPZsdP2QOVaizzl092axZ0pLhZoSJS4WJecc27zLSQnjejuEUEMyHAV03+wuU3SLh9Mne75Ap0ZkJN9UFlGqwH1znVzid/35tUtAlCjBCScjo0cL8liukMJW9kpC2JfdPkyB9hFexYd0ev1TpcDIvmre932mik5PAuGrSy2RYRu2sRl74TuNDEpimgsN8e2mWoJnqbSQQ6SHwGaWM0XYWBdCBpGSYCD7rE6ggd2x7btMSz+iEcBJDDOjvHrIwimha7kdj0QWBalZh35GPemalazNCgXrD2XszCrGX8+Fhno0Ggfb+W3T8qS42dNN7YdJfAUWC4cIWhg1uRAOJgQW55gWX0A65JzMjOd0VlyHarjB3yzosJx1UGrvOSReaplhxIr0LG2yCx30mAGYS4Cpv8ZK/gqDyDxPzuaLaCmLEjitdk+IhMtMKd6NaO66Xnow"
+		    "matchHost": "https://wsdev.jfrog.io/artifactory/default-maven-local/",
+		    "hostType": "maven",
+		    "userName": "muhammad",
+		    "encrypted": {
+		 	"password": "wcBMA8xOaBJvzJNbAQf8CKcpGC6pzcP5hDcDfNUW2R4fPZsdP2QOVaizzl092axZ0pLhZoSJS4WJecc27zLSQnjejuEUEMyHAV03+wuU3SLh9Mne75Ap0ZkJN9UFlGqwH1znVzid/35tUtAlCjBCScjo0cL8liukMJW9kpC2JfdPkyB9hFexYd0ev1TpcDIvmre932mik5PAuGrSy2RYRu2sRl74TuNDEpimgsN8e2mWoJnqbSQQ6SHwGaWM0XYWBdCBpGSYCD7rE6ggd2x7btMSz+iEcBJDDOjvHrIwimha7kdj0QWBalZh35GPemalazNCgXrD2XszCrGX8+Fhno0Ggfb+W3T8qS42dNN7YdJfAUWC4cIWhg1uRAOJgQW55gWX0A65JzMjOd0VlyHarjB3yzosJx1UGrvOSReaplhxIr0LG2yCx30mAGYS4Cpv8ZK/gqDyDxPzuaLaCmLEjitdk+IhMtMKd6NaO66Xnow"
 			}
 		},
 		{
-			"matchHost": "https://wsdev.jfrog.io/artifactory/haytam-maven-libs-snapshot-local/",
-			"hostType": "maven",
-			"userName": "muhammad",
-			"encrypted": {
-				"password": "wcBMA8xOaBJvzJNbAQf8CKcpGC6pzcP5hDcDfNUW2R4fPZsdP2QOVaizzl092axZ0pLhZoSJS4WJecc27zLSQnjejuEUEMyHAV03+wuU3SLh9Mne75Ap0ZkJN9UFlGqwH1znVzid/35tUtAlCjBCScjo0cL8liukMJW9kpC2JfdPkyB9hFexYd0ev1TpcDIvmre932mik5PAuGrSy2RYRu2sRl74TuNDEpimgsN8e2mWoJnqbSQQ6SHwGaWM0XYWBdCBpGSYCD7rE6ggd2x7btMSz+iEcBJDDOjvHrIwimha7kdj0QWBalZh35GPemalazNCgXrD2XszCrGX8+Fhno0Ggfb+W3T8qS42dNN7YdJfAUWC4cIWhg1uRAOJgQW55gWX0A65JzMjOd0VlyHarjB3yzosJx1UGrvOSReaplhxIr0LG2yCx30mAGYS4Cpv8ZK/gqDyDxPzuaLaCmLEjitdk+IhMtMKd6NaO66Xnow"
+		    "matchHost": "https://wsdev.jfrog.io/artifactory/haytam-maven-libs-snapshot-local/",
+		    "hostType": "maven",
+		    "userName": "muhammad",
+		    "encrypted": {
+		 	"password": "wcBMA8xOaBJvzJNbAQf8CKcpGC6pzcP5hDcDfNUW2R4fPZsdP2QOVaizzl092axZ0pLhZoSJS4WJecc27zLSQnjejuEUEMyHAV03+wuU3SLh9Mne75Ap0ZkJN9UFlGqwH1znVzid/35tUtAlCjBCScjo0cL8liukMJW9kpC2JfdPkyB9hFexYd0ev1TpcDIvmre932mik5PAuGrSy2RYRu2sRl74TuNDEpimgsN8e2mWoJnqbSQQ6SHwGaWM0XYWBdCBpGSYCD7rE6ggd2x7btMSz+iEcBJDDOjvHrIwimha7kdj0QWBalZh35GPemalazNCgXrD2XszCrGX8+Fhno0Ggfb+W3T8qS42dNN7YdJfAUWC4cIWhg1uRAOJgQW55gWX0A65JzMjOd0VlyHarjB3yzosJx1UGrvOSReaplhxIr0LG2yCx30mAGYS4Cpv8ZK/gqDyDxPzuaLaCmLEjitdk+IhMtMKd6NaO66Xnow"
 			}
 		}
 	],
