@@ -25,18 +25,4 @@
     <module>service</module>
     <module>webapp</module>
   </modules>
-      <repositories>
-        <repository>
-            <id>test1</id>
-            <url>https://wsdev.jfrog.io/artifactory/default-maven-local</url>
-        </repository>
-        <repository>
-            <id>test2</id>
-            <url>https://wsdev.jfrog.io/artifactory/haytam-maven-libs-snapshot-local</url>
-        </repository>
-        <repository>
-            <id>apache</id>
-            <url>https://repository.apache.org/content/groups/public/</url>
-        </repository>
-    </repositories>
 </project>
