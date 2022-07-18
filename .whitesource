@@ -18,7 +18,7 @@
 		{
 		    "matchHost": "https://wsdev.jfrog.io/artifactory/",
 		    "hostType": "maven",
-		    "userName":"muhammad",
+		    "username":"muhammad",
 		    "encrypted": {
 		 	"password": "wcBMA8xOaBJvzJNbAQf/W0RgKRj8hOqmpnFfRzdwUfop1LEbtx/fFz7q23aWQAvpSyjwhP4eeQBfeNszyz/83AIlBQa5ZBMA+PoM3yXTlCB3m34B0GiQ6bOincVBI6qjGM6q/VtMlRGeKxo5EyVXcGIZ9ENo2bqthfcubOOY3w+mK11hGvyLtuaJ+AQAK5YqsdoHZWN56/tBsGcIrziSNLvTv8UioiST15bhEBzYspVzHxsr2nvOBqYkrpZ9bTYw1cHbJDzQ6Bj2PkRImkNKvbsJJSqCMAo6nYNut25utdBsbQHT7MxXS91TUweA546bXzmNYwskCFee7AwrWpgepEVUg/qvSKSgmqdliy4fr9JfAT6ALwN5+3XDNPW5VSVpNNH5kKe5Bjnhdk0ksMFbC3/kgFO/X71n+sSIQF/u3B0qM7HqI+Kom8t5sQg4SZarK0AuUQmD+KqBWwyOpiuffXPXQIWxVh40qZFdeDqTv2k"
 			}
@@ -26,7 +26,7 @@
 			{
 		    "matchHost": "https://wsdev.jfrog.io/artifactory/default-maven-local/",
 		    "hostType": "maven",
-		    "userName":"muhammad",
+		    "username":"muhammad",
 		    "encrypted": {
 		 	"password": "wcBMA8xOaBJvzJNbAQf/W0RgKRj8hOqmpnFfRzdwUfop1LEbtx/fFz7q23aWQAvpSyjwhP4eeQBfeNszyz/83AIlBQa5ZBMA+PoM3yXTlCB3m34B0GiQ6bOincVBI6qjGM6q/VtMlRGeKxo5EyVXcGIZ9ENo2bqthfcubOOY3w+mK11hGvyLtuaJ+AQAK5YqsdoHZWN56/tBsGcIrziSNLvTv8UioiST15bhEBzYspVzHxsr2nvOBqYkrpZ9bTYw1cHbJDzQ6Bj2PkRImkNKvbsJJSqCMAo6nYNut25utdBsbQHT7MxXS91TUweA546bXzmNYwskCFee7AwrWpgepEVUg/qvSKSgmqdliy4fr9JfAT6ALwN5+3XDNPW5VSVpNNH5kKe5Bjnhdk0ksMFbC3/kgFO/X71n+sSIQF/u3B0qM7HqI+Kom8t5sQg4SZarK0AuUQmD+KqBWwyOpiuffXPXQIWxVh40qZFdeDqTv2k"
 			}
@@ -34,7 +34,7 @@
 		{
 		    "matchHost": "https://wsdev.jfrog.io/artifactory/haytam-maven-libs-snapshot-local/",
 		    "hostType": "maven",
-		    "userName":"muhammad",
+		    "username":"muhammad",
 		    "encrypted": {
 		 	"password": "wcBMA8xOaBJvzJNbAQf/W0RgKRj8hOqmpnFfRzdwUfop1LEbtx/fFz7q23aWQAvpSyjwhP4eeQBfeNszyz/83AIlBQa5ZBMA+PoM3yXTlCB3m34B0GiQ6bOincVBI6qjGM6q/VtMlRGeKxo5EyVXcGIZ9ENo2bqthfcubOOY3w+mK11hGvyLtuaJ+AQAK5YqsdoHZWN56/tBsGcIrziSNLvTv8UioiST15bhEBzYspVzHxsr2nvOBqYkrpZ9bTYw1cHbJDzQ6Bj2PkRImkNKvbsJJSqCMAo6nYNut25utdBsbQHT7MxXS91TUweA546bXzmNYwskCFee7AwrWpgepEVUg/qvSKSgmqdliy4fr9JfAT6ALwN5+3XDNPW5VSVpNNH5kKe5Bjnhdk0ksMFbC3/kgFO/X71n+sSIQF/u3B0qM7HqI+Kom8t5sQg4SZarK0AuUQmD+KqBWwyOpiuffXPXQIWxVh40qZFdeDqTv2k"
 			}
